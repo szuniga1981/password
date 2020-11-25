@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Contraseña25112020</string>
+    <string name="debil"> Contraseña Debil</string>
+    <string name="medio">Contraseña Media</string>
+    <string name="fuerte">Contraseña Fuerte</string>
+</resources>
